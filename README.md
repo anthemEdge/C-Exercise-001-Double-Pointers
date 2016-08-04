@@ -1,6 +1,3 @@
-# C-Exercise-001-Double-Pointers
-Using double pointers to remove nodes in a single linked list. 
-=======
 # C++ Exercise 001: Double Pointers
 
 This is my attempt to understand the double pointers in C++. The goal of this exercise is to understand how double pointers can be used to remove a node in a linked list. There are two functions that remove nodes: badRemove(int v) and goodRemove(int v). Both functions remove the first node which has the value v.
