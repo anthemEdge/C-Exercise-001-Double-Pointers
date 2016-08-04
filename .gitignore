@@ -32,6 +32,6 @@
 *.app
 
 # Eclipse
-.cproject
-.project
+*.cproject
+*.project
 Debug/*
